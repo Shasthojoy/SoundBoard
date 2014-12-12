@@ -4,7 +4,8 @@
 define(['jquery',
     'knockout',
     '../../assets/js/models/appViewModel.js',
-    'jquery.bootstrap'
+    'jquery.bootstrap',
+    'lodash'
     ], function ($, ko, AppViewModel) {
 
   var UI = new AppViewModel();

@@ -14,7 +14,8 @@ require.config({
   map: {
     '*': {
       'knockout': '../../bower_components/knockout.js/knockout',
-      'ko': '../../bower_components/knockout.js/knockout'
+      'ko': '../../bower_components/knockout.js/knockout',
+      'lodash': '../../bower_components/lodash-amd/main'
     }
   }
 });
